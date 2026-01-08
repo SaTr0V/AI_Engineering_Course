@@ -1,0 +1,21 @@
+{
+  "best_model_label": "Stack",
+  "test_metrics": {
+    "Metrics": {
+      "0": "Accuracy",
+      "1": "Precision",
+      "2": "Recall",
+      "3": "F1-score",
+      "4": "ROC-AUC"
+    },
+    "Stack": {
+      "0": 0.9038888888888889,
+      "1": 0.858682634730539,
+      "2": 0.7587301587301587,
+      "3": 0.8056179775280898,
+      "4": 0.9279873255014498
+    }
+  },
+  "search_summary": null,
+  "random_state": 42
+}

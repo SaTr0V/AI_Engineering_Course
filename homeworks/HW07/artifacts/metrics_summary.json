@@ -1,0 +1,2335 @@
+{
+  "ds1": [
+    {
+      "params": {
+        "k": 2
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 3
+      },
+      "metrics": {
+        "silhouette": 0.39675785208949865,
+        "davies_bouldin": 0.9646042500366256,
+        "calinski_harabasz": 10446.638111140073
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 4
+      },
+      "metrics": {
+        "silhouette": 0.38330054183984436,
+        "davies_bouldin": 1.1603490405338501,
+        "calinski_harabasz": 9427.499744196683
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 5
+      },
+      "metrics": {
+        "silhouette": 0.3548010094581461,
+        "davies_bouldin": 1.273718688223341,
+        "calinski_harabasz": 8301.205993638541
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 6
+      },
+      "metrics": {
+        "silhouette": 0.3585612534599804,
+        "davies_bouldin": 1.1822563058722355,
+        "calinski_harabasz": 7333.387619484842
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 7
+      },
+      "metrics": {
+        "silhouette": 0.3246065284402385,
+        "davies_bouldin": 1.1941620120662246,
+        "calinski_harabasz": 6823.00784381894
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 8
+      },
+      "metrics": {
+        "silhouette": 0.26887342610287457,
+        "davies_bouldin": 1.3141804010152645,
+        "calinski_harabasz": 6460.801051738207
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 9
+      },
+      "metrics": {
+        "silhouette": 0.2533723319267118,
+        "davies_bouldin": 1.343964489505401,
+        "calinski_harabasz": 6255.217145281708
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 10
+      },
+      "metrics": {
+        "silhouette": 0.26291441714215824,
+        "davies_bouldin": 1.2769845526246602,
+        "calinski_harabasz": 6084.5030865672
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 11
+      },
+      "metrics": {
+        "silhouette": 0.2658890699274932,
+        "davies_bouldin": 1.214110863627697,
+        "calinski_harabasz": 5898.163563797596
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 12
+      },
+      "metrics": {
+        "silhouette": 0.2685629760948074,
+        "davies_bouldin": 1.1562638766664033,
+        "calinski_harabasz": 5784.863430516168
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 13
+      },
+      "metrics": {
+        "silhouette": 0.27442565141483244,
+        "davies_bouldin": 1.1411854947778086,
+        "calinski_harabasz": 5716.7016395187775
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 14
+      },
+      "metrics": {
+        "silhouette": 0.2787258404482488,
+        "davies_bouldin": 1.086926375720219,
+        "calinski_harabasz": 5744.579410097937
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 15
+      },
+      "metrics": {
+        "silhouette": 0.28835066131026454,
+        "davies_bouldin": 1.040922571774993,
+        "calinski_harabasz": 5729.707844145998
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 16
+      },
+      "metrics": {
+        "silhouette": 0.28537028050526086,
+        "davies_bouldin": 1.03846511796412,
+        "calinski_harabasz": 5580.721663031734
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 17
+      },
+      "metrics": {
+        "silhouette": 0.2801490190966997,
+        "davies_bouldin": 1.0480792518591049,
+        "calinski_harabasz": 5495.578615504757
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 18
+      },
+      "metrics": {
+        "silhouette": 0.27453968319919525,
+        "davies_bouldin": 1.056582590902692,
+        "calinski_harabasz": 5420.029658607137
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 19
+      },
+      "metrics": {
+        "silhouette": 0.2720445860130438,
+        "davies_bouldin": 1.061359084243461,
+        "calinski_harabasz": 5356.514276205823
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 20
+      },
+      "metrics": {
+        "silhouette": 0.2677946103186128,
+        "davies_bouldin": 1.0631980159454324,
+        "calinski_harabasz": 5320.163181864113
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 0.3,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": -0.40273173866395623,
+        "davies_bouldin": 1.2375069786358617,
+        "calinski_harabasz": 57.04028263234605
+      },
+      "noise_frac": 0.3175
+    },
+    {
+      "params": {
+        "eps": 0.3,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": -0.4156371591389037,
+        "davies_bouldin": 1.255453325757118,
+        "calinski_harabasz": 90.7783645566082
+      },
+      "noise_frac": 0.4335
+    },
+    {
+      "params": {
+        "eps": 0.3,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": -0.38901300572103387,
+        "davies_bouldin": 1.5545309500861109,
+        "calinski_harabasz": 134.81225099957288
+      },
+      "noise_frac": 0.6221666666666666
+    },
+    {
+      "params": {
+        "eps": 0.3,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": -0.27805645824552044,
+        "davies_bouldin": 1.6764540682699913,
+        "calinski_harabasz": 141.63813756803194
+      },
+      "noise_frac": 0.7230833333333333
+    },
+    {
+      "params": {
+        "eps": 0.5,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.25374209052817515,
+        "davies_bouldin": 1.5174368363260584,
+        "calinski_harabasz": 3000.850982621622
+      },
+      "noise_frac": 0.02525
+    },
+    {
+      "params": {
+        "eps": 0.5,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.25673643555803094,
+        "davies_bouldin": 1.5870277602584761,
+        "calinski_harabasz": 3210.2734068998398
+      },
+      "noise_frac": 0.033666666666666664
+    },
+    {
+      "params": {
+        "eps": 0.5,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.3081680015630409,
+        "davies_bouldin": 1.8698440176210345,
+        "calinski_harabasz": 4261.506535723837
+      },
+      "noise_frac": 0.06225
+    },
+    {
+      "params": {
+        "eps": 0.5,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.3161698702155727,
+        "davies_bouldin": 1.9843918259526843,
+        "calinski_harabasz": 4515.364819642687
+      },
+      "noise_frac": 0.09216666666666666
+    },
+    {
+      "params": {
+        "eps": 0.7,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.37616214544652926,
+        "davies_bouldin": 2.1238187890378075,
+        "calinski_harabasz": 6530.310210538332
+      },
+      "noise_frac": 0.003
+    },
+    {
+      "params": {
+        "eps": 0.7,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.3766425679375877,
+        "davies_bouldin": 2.343357866052352,
+        "calinski_harabasz": 6506.480175139556
+      },
+      "noise_frac": 0.003833333333333333
+    },
+    {
+      "params": {
+        "eps": 0.7,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.375379555040053,
+        "davies_bouldin": 2.2989765597184895,
+        "calinski_harabasz": 6432.198384773322
+      },
+      "noise_frac": 0.006666666666666667
+    },
+    {
+      "params": {
+        "eps": 0.7,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.37386341287122893,
+        "davies_bouldin": 2.3178813324075103,
+        "calinski_harabasz": 6324.594495935845
+      },
+      "noise_frac": 0.010583333333333333
+    },
+    {
+      "params": {
+        "eps": 0.9,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.3779483565666487,
+        "davies_bouldin": 2.8209719629496006,
+        "calinski_harabasz": 6599.346486891646
+      },
+      "noise_frac": 0.001
+    },
+    {
+      "params": {
+        "eps": 0.9,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.3779483565666487,
+        "davies_bouldin": 2.8209719629496006,
+        "calinski_harabasz": 6599.346486891646
+      },
+      "noise_frac": 0.001
+    },
+    {
+      "params": {
+        "eps": 0.9,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.3779483565666487,
+        "davies_bouldin": 2.8209719629496006,
+        "calinski_harabasz": 6599.346486891646
+      },
+      "noise_frac": 0.001
+    },
+    {
+      "params": {
+        "eps": 0.9,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.3777596207999039,
+        "davies_bouldin": 2.492178850656502,
+        "calinski_harabasz": 6580.0931967595025
+      },
+      "noise_frac": 0.0016666666666666668
+    },
+    {
+      "params": {
+        "eps": 1.1,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.3831765784558013,
+        "davies_bouldin": 2.973438700557425,
+        "calinski_harabasz": 7064.170191532423
+      },
+      "noise_frac": 0.00025
+    },
+    {
+      "params": {
+        "eps": 1.1,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.38322554963962724,
+        "davies_bouldin": 2.6853956028992805,
+        "calinski_harabasz": 7065.323440428957
+      },
+      "noise_frac": 0.0003333333333333333
+    },
+    {
+      "params": {
+        "eps": 1.1,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.38323672956380056,
+        "davies_bouldin": 4.421335041580944,
+        "calinski_harabasz": 7062.90325017097
+      },
+      "noise_frac": 0.0004166666666666667
+    },
+    {
+      "params": {
+        "eps": 1.1,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.38323672956380056,
+        "davies_bouldin": 4.421335041580944,
+        "calinski_harabasz": 7062.90325017097
+      },
+      "noise_frac": 0.0004166666666666667
+    },
+    {
+      "params": {
+        "eps": 1.3,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.37809700236965016,
+        "davies_bouldin": 0.9986242217514636,
+        "calinski_harabasz": 7076.998452256553
+      },
+      "noise_frac": 8.333333333333333e-05
+    },
+    {
+      "params": {
+        "eps": 1.3,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.37809700236965016,
+        "davies_bouldin": 0.9986242217514636,
+        "calinski_harabasz": 7076.998452256553
+      },
+      "noise_frac": 8.333333333333333e-05
+    },
+    {
+      "params": {
+        "eps": 1.3,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.38331437164091936,
+        "davies_bouldin": 2.9483459142080437,
+        "calinski_harabasz": 7071.123108613251
+      },
+      "noise_frac": 0.00016666666666666666
+    },
+    {
+      "params": {
+        "eps": 1.3,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.38331437164091936,
+        "davies_bouldin": 2.9483459142080437,
+        "calinski_harabasz": 7071.123108613251
+      },
+      "noise_frac": 0.00016666666666666666
+    },
+    {
+      "params": {
+        "eps": 1.5,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.3967888223601393,
+        "davies_bouldin": 0.9644102343879997,
+        "calinski_harabasz": 10446.597694416176
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 1.5,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.3967888223601393,
+        "davies_bouldin": 0.9644102343879997,
+        "calinski_harabasz": 10446.597694416176
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 1.5,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.3967888223601393,
+        "davies_bouldin": 0.9644102343879997,
+        "calinski_harabasz": 10446.597694416176
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 1.5,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.3967888223601393,
+        "davies_bouldin": 0.9644102343879997,
+        "calinski_harabasz": 10446.597694416176
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 1.7,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 1.7,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 1.7,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 1.7,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 1.9,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 1.9,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 1.9,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 1.9,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 2.1,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 2.1,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 2.1,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 2.1,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 2.3,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 2.3,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 2.3,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 2.3,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 2.5,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 2.5,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 2.5,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 2.5,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 2.7,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 2.7,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 2.7,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 2.7,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.5216395622404242,
+        "davies_bouldin": 0.6853295219054458,
+        "calinski_harabasz": 11786.954622671528
+      },
+      "noise_frac": 0.0
+    }
+  ],
+  "ds2": [
+    {
+      "params": {
+        "k": 2
+      },
+      "metrics": {
+        "silhouette": 0.3068610017701601,
+        "davies_bouldin": 1.3234721699867644,
+        "calinski_harabasz": 3573.3933329348392
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 3
+      },
+      "metrics": {
+        "silhouette": 0.27004522856451274,
+        "davies_bouldin": 1.2226592908750664,
+        "calinski_harabasz": 3082.272074544635
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 4
+      },
+      "metrics": {
+        "silhouette": 0.2514805632951281,
+        "davies_bouldin": 1.2998187751155688,
+        "calinski_harabasz": 2915.565357085485
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 5
+      },
+      "metrics": {
+        "silhouette": 0.25211519070471305,
+        "davies_bouldin": 1.2138337452137868,
+        "calinski_harabasz": 2703.5897042630368
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 6
+      },
+      "metrics": {
+        "silhouette": 0.25981972898842143,
+        "davies_bouldin": 1.159521129561412,
+        "calinski_harabasz": 2571.0909314132814
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 7
+      },
+      "metrics": {
+        "silhouette": 0.2536432556085209,
+        "davies_bouldin": 1.1723338222249964,
+        "calinski_harabasz": 2453.500966352129
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 8
+      },
+      "metrics": {
+        "silhouette": 0.25230459123826915,
+        "davies_bouldin": 1.1001780140666457,
+        "calinski_harabasz": 2408.5165874822683
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 9
+      },
+      "metrics": {
+        "silhouette": 0.2524627947838528,
+        "davies_bouldin": 1.0895692637687338,
+        "calinski_harabasz": 2379.9899548084677
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 10
+      },
+      "metrics": {
+        "silhouette": 0.2608689477630066,
+        "davies_bouldin": 1.057141940706856,
+        "calinski_harabasz": 2408.1920107466526
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 0.2,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": -0.13627814128804383,
+        "davies_bouldin": 1.8423549063256266,
+        "calinski_harabasz": 102.7511187681387
+      },
+      "noise_frac": 0.08725
+    },
+    {
+      "params": {
+        "eps": 0.2,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": -0.08167940080302905,
+        "davies_bouldin": 2.4817541098623654,
+        "calinski_harabasz": 221.9885276191348
+      },
+      "noise_frac": 0.102
+    },
+    {
+      "params": {
+        "eps": 0.2,
+        "min_samples": 8
+      },
+      "metrics": {
+        "silhouette": -0.05584882095332007,
+        "davies_bouldin": 2.7057465168351005,
+        "calinski_harabasz": 272.1056813908725
+      },
+      "noise_frac": 0.12975
+    },
+    {
+      "params": {
+        "eps": 0.2,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.026334698669120547,
+        "davies_bouldin": 3.096176608841428,
+        "calinski_harabasz": 368.03299452774746
+      },
+      "noise_frac": 0.14725
+    },
+    {
+      "params": {
+        "eps": 0.3,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": -0.3263534365148777,
+        "davies_bouldin": 1.8139029504580566,
+        "calinski_harabasz": 14.13349025273479
+      },
+      "noise_frac": 0.05925
+    },
+    {
+      "params": {
+        "eps": 0.3,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.05243127282440885,
+        "davies_bouldin": 5.039909571197562,
+        "calinski_harabasz": 18.70635256239341
+      },
+      "noise_frac": 0.072375
+    },
+    {
+      "params": {
+        "eps": 0.3,
+        "min_samples": 8
+      },
+      "metrics": {
+        "silhouette": 0.3763962854422064,
+        "davies_bouldin": 16.331929219385557,
+        "calinski_harabasz": 16.1788701301638
+      },
+      "noise_frac": 0.082125
+    },
+    {
+      "params": {
+        "eps": 0.3,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.3711769087263103,
+        "davies_bouldin": 18.104571307590568,
+        "calinski_harabasz": 13.525249595320805
+      },
+      "noise_frac": 0.085875
+    },
+    {
+      "params": {
+        "eps": 0.4,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": -0.24684760291907973,
+        "davies_bouldin": 1.676490655749386,
+        "calinski_harabasz": 21.042334130092012
+      },
+      "noise_frac": 0.041875
+    },
+    {
+      "params": {
+        "eps": 0.4,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.09344417903889647,
+        "davies_bouldin": 2.838742480995968,
+        "calinski_harabasz": 27.687599656882252
+      },
+      "noise_frac": 0.061875
+    },
+    {
+      "params": {
+        "eps": 0.4,
+        "min_samples": 8
+      },
+      "metrics": {
+        "silhouette": 0.39366188007634445,
+        "davies_bouldin": 14.47020447545702,
+        "calinski_harabasz": 18.759908947518515
+      },
+      "noise_frac": 0.070375
+    },
+    {
+      "params": {
+        "eps": 0.4,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.3926902128384853,
+        "davies_bouldin": 14.658147499618268,
+        "calinski_harabasz": 18.444182641575622
+      },
+      "noise_frac": 0.07125
+    },
+    {
+      "params": {
+        "eps": 0.5,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": -0.07891177857659691,
+        "davies_bouldin": 1.8594891906492985,
+        "calinski_harabasz": 35.25538441148004
+      },
+      "noise_frac": 0.0255
+    },
+    {
+      "params": {
+        "eps": 0.5,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": -0.0851996311903564,
+        "davies_bouldin": 1.9856490304539458,
+        "calinski_harabasz": 43.51028289589608
+      },
+      "noise_frac": 0.045
+    },
+    {
+      "params": {
+        "eps": 0.5,
+        "min_samples": 8
+      },
+      "metrics": {
+        "silhouette": 0.2057630623212931,
+        "davies_bouldin": 5.678554280781347,
+        "calinski_harabasz": 26.52284182039533
+      },
+      "noise_frac": 0.061875
+    },
+    {
+      "params": {
+        "eps": 0.5,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.21510538748374602,
+        "davies_bouldin": 7.92113469320224,
+        "calinski_harabasz": 25.359009800212934
+      },
+      "noise_frac": 0.063625
+    },
+    {
+      "params": {
+        "eps": 0.6,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.09504189428084873,
+        "davies_bouldin": 5.052588461683135,
+        "calinski_harabasz": 47.4473724157046
+      },
+      "noise_frac": 0.013
+    },
+    {
+      "params": {
+        "eps": 0.6,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.12130691665595968,
+        "davies_bouldin": 2.1946292475771427,
+        "calinski_harabasz": 60.18125165914649
+      },
+      "noise_frac": 0.022625
+    },
+    {
+      "params": {
+        "eps": 0.6,
+        "min_samples": 8
+      },
+      "metrics": {
+        "silhouette": 0.10860357516669965,
+        "davies_bouldin": 2.4127883056287027,
+        "calinski_harabasz": 61.812334307786514
+      },
+      "noise_frac": 0.04475
+    },
+    {
+      "params": {
+        "eps": 0.6,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.21157702616084967,
+        "davies_bouldin": 4.372939413836304,
+        "calinski_harabasz": 53.54104566104668
+      },
+      "noise_frac": 0.054625
+    },
+    {
+      "params": {
+        "eps": 0.7,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.33136396757935166,
+        "davies_bouldin": 7.151545155689892,
+        "calinski_harabasz": 7.77080288560982
+      },
+      "noise_frac": 0.007125
+    },
+    {
+      "params": {
+        "eps": 0.7,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.4630758770537609,
+        "davies_bouldin": 11.515928821967725,
+        "calinski_harabasz": 5.6484448408757615
+      },
+      "noise_frac": 0.009875
+    },
+    {
+      "params": {
+        "eps": 0.7,
+        "min_samples": 8
+      },
+      "metrics": {
+        "silhouette": 0.2093160779030437,
+        "davies_bouldin": 2.4757401795263063,
+        "calinski_harabasz": 79.47440991163297
+      },
+      "noise_frac": 0.021
+    },
+    {
+      "params": {
+        "eps": 0.7,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.27505798940744386,
+        "davies_bouldin": 3.5381733955298693,
+        "calinski_harabasz": 86.45387985199633
+      },
+      "noise_frac": 0.036375
+    },
+    {
+      "params": {
+        "eps": 0.8,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.49463290250597264,
+        "davies_bouldin": 8.542548912097173,
+        "calinski_harabasz": 4.473599553394264
+      },
+      "noise_frac": 0.003875
+    },
+    {
+      "params": {
+        "eps": 0.8,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.48651102231409227,
+        "davies_bouldin": 7.65438004810896,
+        "calinski_harabasz": 7.599830190821954
+      },
+      "noise_frac": 0.0055
+    },
+    {
+      "params": {
+        "eps": 0.8,
+        "min_samples": 8
+      },
+      "metrics": {
+        "silhouette": 0.48197684116172645,
+        "davies_bouldin": 8.000537395789495,
+        "calinski_harabasz": 10.6955005386035
+      },
+      "noise_frac": 0.008625
+    },
+    {
+      "params": {
+        "eps": 0.8,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.38877349420948737,
+        "davies_bouldin": 4.941068576007581,
+        "calinski_harabasz": 32.780248315559234
+      },
+      "noise_frac": 0.01175
+    },
+    {
+      "params": {
+        "eps": 0.9,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.5053035949916395,
+        "davies_bouldin": 4.990427684304585,
+        "calinski_harabasz": 10.505406947791904
+      },
+      "noise_frac": 0.003125
+    },
+    {
+      "params": {
+        "eps": 0.9,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.506029141041919,
+        "davies_bouldin": 7.614341176117203,
+        "calinski_harabasz": 5.421880747039595
+      },
+      "noise_frac": 0.003625
+    },
+    {
+      "params": {
+        "eps": 0.9,
+        "min_samples": 8
+      },
+      "metrics": {
+        "silhouette": 0.5021630508731956,
+        "davies_bouldin": 8.514338388510449,
+        "calinski_harabasz": 5.038043456073964
+      },
+      "noise_frac": 0.00425
+    },
+    {
+      "params": {
+        "eps": 0.9,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.49162798302221417,
+        "davies_bouldin": 10.546397920300276,
+        "calinski_harabasz": 4.027678056032307
+      },
+      "noise_frac": 0.005375
+    },
+    {
+      "params": {
+        "eps": 1.0,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.5249341619557576,
+        "davies_bouldin": 3.332057180410099,
+        "calinski_harabasz": 12.281229195281739
+      },
+      "noise_frac": 0.001625
+    },
+    {
+      "params": {
+        "eps": 1.0,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.5249341619557576,
+        "davies_bouldin": 3.332057180410099,
+        "calinski_harabasz": 12.281229195281739
+      },
+      "noise_frac": 0.001625
+    },
+    {
+      "params": {
+        "eps": 1.0,
+        "min_samples": 8
+      },
+      "metrics": {
+        "silhouette": 0.5121858787595229,
+        "davies_bouldin": 4.551262673726082,
+        "calinski_harabasz": 9.659578873884119
+      },
+      "noise_frac": 0.002375
+    },
+    {
+      "params": {
+        "eps": 1.0,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.5108319899141436,
+        "davies_bouldin": 4.849109581006357,
+        "calinski_harabasz": 11.19207705824701
+      },
+      "noise_frac": 0.003125
+    },
+    {
+      "params": {
+        "eps": 1.1,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.5350027601852079,
+        "davies_bouldin": 2.969910713354667,
+        "calinski_harabasz": 4.691863391513466
+      },
+      "noise_frac": 0.0005
+    },
+    {
+      "params": {
+        "eps": 1.1,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.5307106810075204,
+        "davies_bouldin": 3.3976171869785836,
+        "calinski_harabasz": 4.653700804324595
+      },
+      "noise_frac": 0.000625
+    },
+    {
+      "params": {
+        "eps": 1.1,
+        "min_samples": 8
+      },
+      "metrics": {
+        "silhouette": 0.5356200207280934,
+        "davies_bouldin": 5.853522616898458,
+        "calinski_harabasz": 2.4231554449880712
+      },
+      "noise_frac": 0.000875
+    },
+    {
+      "params": {
+        "eps": 1.1,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.5298141332329649,
+        "davies_bouldin": 4.1003834770334695,
+        "calinski_harabasz": 5.257593813387664
+      },
+      "noise_frac": 0.001
+    },
+    {
+      "params": {
+        "eps": 1.2,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.5104079295083576,
+        "davies_bouldin": 1.978413277447749,
+        "calinski_harabasz": 4.399713828656357
+      },
+      "noise_frac": 0.00025
+    },
+    {
+      "params": {
+        "eps": 1.2,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.5104079295083576,
+        "davies_bouldin": 1.978413277447749,
+        "calinski_harabasz": 4.399713828656357
+      },
+      "noise_frac": 0.00025
+    },
+    {
+      "params": {
+        "eps": 1.2,
+        "min_samples": 8
+      },
+      "metrics": {
+        "silhouette": 0.5350027601852079,
+        "davies_bouldin": 2.969910713354667,
+        "calinski_harabasz": 4.691863391513466
+      },
+      "noise_frac": 0.0005
+    },
+    {
+      "params": {
+        "eps": 1.2,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.5479759440510322,
+        "davies_bouldin": 6.6619081464615775,
+        "calinski_harabasz": 1.414059573518188
+      },
+      "noise_frac": 0.000625
+    },
+    {
+      "params": {
+        "eps": 1.3,
+        "min_samples": 3
+      },
+      "metrics": {
+        "silhouette": 0.5104079295083576,
+        "davies_bouldin": 1.978413277447749,
+        "calinski_harabasz": 4.399713828656357
+      },
+      "noise_frac": 0.00025
+    },
+    {
+      "params": {
+        "eps": 1.3,
+        "min_samples": 5
+      },
+      "metrics": {
+        "silhouette": 0.5104079295083576,
+        "davies_bouldin": 1.978413277447749,
+        "calinski_harabasz": 4.399713828656357
+      },
+      "noise_frac": 0.00025
+    },
+    {
+      "params": {
+        "eps": 1.3,
+        "min_samples": 8
+      },
+      "metrics": {
+        "silhouette": 0.5350027601852079,
+        "davies_bouldin": 2.969910713354667,
+        "calinski_harabasz": 4.691863391513466
+      },
+      "noise_frac": 0.0005
+    },
+    {
+      "params": {
+        "eps": 1.3,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.5350027601852079,
+        "davies_bouldin": 2.969910713354667,
+        "calinski_harabasz": 4.691863391513466
+      },
+      "noise_frac": 0.0005
+    },
+    {
+      "params": {
+        "eps": 1.4,
+        "min_samples": 8
+      },
+      "metrics": {
+        "silhouette": 0.5213161442555722,
+        "davies_bouldin": 0.34186056281280663,
+        "calinski_harabasz": 7.184330110542804
+      },
+      "noise_frac": 0.000125
+    },
+    {
+      "params": {
+        "eps": 1.4,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.5213161442555722,
+        "davies_bouldin": 0.34186056281280663,
+        "calinski_harabasz": 7.184330110542804
+      },
+      "noise_frac": 0.000125
+    },
+    {
+      "params": {
+        "eps": 1.5,
+        "min_samples": 8
+      },
+      "metrics": {
+        "silhouette": 0.5213161442555722,
+        "davies_bouldin": 0.34186056281280663,
+        "calinski_harabasz": 7.184330110542804
+      },
+      "noise_frac": 0.000125
+    },
+    {
+      "params": {
+        "eps": 1.5,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.5213161442555722,
+        "davies_bouldin": 0.34186056281280663,
+        "calinski_harabasz": 7.184330110542804
+      },
+      "noise_frac": 0.000125
+    }
+  ],
+  "ds3": [
+    {
+      "params": {
+        "k": 2
+      },
+      "metrics": {
+        "silhouette": 0.2989049482650359,
+        "davies_bouldin": 1.3554682309311277,
+        "calinski_harabasz": 7004.795629839117
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 3
+      },
+      "metrics": {
+        "silhouette": 0.31554470037825183,
+        "davies_bouldin": 1.1577256320598661,
+        "calinski_harabasz": 6957.162639510166
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 4
+      },
+      "metrics": {
+        "silhouette": 0.3146186578997614,
+        "davies_bouldin": 1.1596756007747975,
+        "calinski_harabasz": 6492.278930703822
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 5
+      },
+      "metrics": {
+        "silhouette": 0.299296734735238,
+        "davies_bouldin": 1.1685563259560328,
+        "calinski_harabasz": 6125.127992652557
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 6
+      },
+      "metrics": {
+        "silhouette": 0.29314949913879973,
+        "davies_bouldin": 1.1407688365074906,
+        "calinski_harabasz": 6097.475389176514
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 7
+      },
+      "metrics": {
+        "silhouette": 0.2798534492101504,
+        "davies_bouldin": 1.2184650902827825,
+        "calinski_harabasz": 5858.3449065085215
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 8
+      },
+      "metrics": {
+        "silhouette": 0.28949142967979535,
+        "davies_bouldin": 1.1472308916005953,
+        "calinski_harabasz": 5630.838100907985
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 9
+      },
+      "metrics": {
+        "silhouette": 0.28479131908460764,
+        "davies_bouldin": 1.123538246631349,
+        "calinski_harabasz": 5543.965528413644
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "k": 10
+      },
+      "metrics": {
+        "silhouette": 0.2788945201029795,
+        "davies_bouldin": 1.1437855892599376,
+        "calinski_harabasz": 5386.123818961418
+      },
+      "noise_frac": 0.0
+    },
+    {
+      "params": {
+        "eps": 0.5,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.12657409087063942,
+        "davies_bouldin": 11.955738484305789,
+        "calinski_harabasz": 775.7778821063005
+      },
+      "noise_frac": 0.0324
+    },
+    {
+      "params": {
+        "eps": 0.5,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.1220374910231073,
+        "davies_bouldin": 21.83696922546645,
+        "calinski_harabasz": 770.7787457211482
+      },
+      "noise_frac": 0.03986666666666667
+    },
+    {
+      "params": {
+        "eps": 0.5,
+        "min_samples": 20
+      },
+      "metrics": {
+        "silhouette": 0.15539023340491023,
+        "davies_bouldin": 7.22821884146534,
+        "calinski_harabasz": 1865.6854652593622
+      },
+      "noise_frac": 0.049466666666666666
+    },
+    {
+      "params": {
+        "eps": 0.5,
+        "min_samples": 25
+      },
+      "metrics": {
+        "silhouette": 0.15203816424083172,
+        "davies_bouldin": 9.08011620145843,
+        "calinski_harabasz": 1852.6085465377842
+      },
+      "noise_frac": 0.05773333333333333
+    },
+    {
+      "params": {
+        "eps": 0.6,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.2943189569224983,
+        "davies_bouldin": 11.88256861260406,
+        "calinski_harabasz": 12.345412647869663
+      },
+      "noise_frac": 0.017933333333333332
+    },
+    {
+      "params": {
+        "eps": 0.6,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.28874965636609634,
+        "davies_bouldin": 16.42248615202747,
+        "calinski_harabasz": 7.525799538936437
+      },
+      "noise_frac": 0.021133333333333334
+    },
+    {
+      "params": {
+        "eps": 0.6,
+        "min_samples": 20
+      },
+      "metrics": {
+        "silhouette": 0.28440456313873497,
+        "davies_bouldin": 24.529837464125187,
+        "calinski_harabasz": 3.8864963747967196
+      },
+      "noise_frac": 0.0246
+    },
+    {
+      "params": {
+        "eps": 0.6,
+        "min_samples": 25
+      },
+      "metrics": {
+        "silhouette": 0.2814720277392845,
+        "davies_bouldin": 19.446551055994885,
+        "calinski_harabasz": 6.628492305387091
+      },
+      "noise_frac": 0.02666666666666667
+    },
+    {
+      "params": {
+        "eps": 0.7,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.34151681691568087,
+        "davies_bouldin": 11.2592844970907,
+        "calinski_harabasz": 6.320710807891596
+      },
+      "noise_frac": 0.007266666666666667
+    },
+    {
+      "params": {
+        "eps": 0.7,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.32996066122935735,
+        "davies_bouldin": 9.970944095825622,
+        "calinski_harabasz": 10.06475368818197
+      },
+      "noise_frac": 0.0094
+    },
+    {
+      "params": {
+        "eps": 0.7,
+        "min_samples": 20
+      },
+      "metrics": {
+        "silhouette": 0.32795042812192376,
+        "davies_bouldin": 9.391939917854874,
+        "calinski_harabasz": 13.349320047014638
+      },
+      "noise_frac": 0.011133333333333334
+    },
+    {
+      "params": {
+        "eps": 0.7,
+        "min_samples": 25
+      },
+      "metrics": {
+        "silhouette": 0.3229201031819329,
+        "davies_bouldin": 12.090053695722931,
+        "calinski_harabasz": 9.104891419285313
+      },
+      "noise_frac": 0.012666666666666666
+    },
+    {
+      "params": {
+        "eps": 0.8,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.396082153488703,
+        "davies_bouldin": 18.132592372921245,
+        "calinski_harabasz": 1.2334563202999778
+      },
+      "noise_frac": 0.0031333333333333335
+    },
+    {
+      "params": {
+        "eps": 0.8,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.37465269125960826,
+        "davies_bouldin": 13.644118173911274,
+        "calinski_harabasz": 3.0413386130938647
+      },
+      "noise_frac": 0.004666666666666667
+    },
+    {
+      "params": {
+        "eps": 0.8,
+        "min_samples": 20
+      },
+      "metrics": {
+        "silhouette": 0.36661224690882177,
+        "davies_bouldin": 15.6622350594777,
+        "calinski_harabasz": 2.7524238278946385
+      },
+      "noise_frac": 0.005666666666666667
+    },
+    {
+      "params": {
+        "eps": 0.8,
+        "min_samples": 25
+      },
+      "metrics": {
+        "silhouette": 0.36451743030929307,
+        "davies_bouldin": 13.733585605938345,
+        "calinski_harabasz": 4.095665127111499
+      },
+      "noise_frac": 0.006533333333333334
+    },
+    {
+      "params": {
+        "eps": 0.9,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.42130639685184335,
+        "davies_bouldin": 8.019858510005898,
+        "calinski_harabasz": 2.834935432804934
+      },
+      "noise_frac": 0.0013333333333333333
+    },
+    {
+      "params": {
+        "eps": 0.9,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.40819619225759896,
+        "davies_bouldin": 9.311080822537956,
+        "calinski_harabasz": 3.1402190867328836
+      },
+      "noise_frac": 0.0020666666666666667
+    },
+    {
+      "params": {
+        "eps": 0.9,
+        "min_samples": 20
+      },
+      "metrics": {
+        "silhouette": 0.39432717293684244,
+        "davies_bouldin": 10.453121730353066,
+        "calinski_harabasz": 3.4186483593856702
+      },
+      "noise_frac": 0.0029333333333333334
+    },
+    {
+      "params": {
+        "eps": 0.9,
+        "min_samples": 25
+      },
+      "metrics": {
+        "silhouette": 0.39426358216566304,
+        "davies_bouldin": 11.591254651675062,
+        "calinski_harabasz": 2.9139015235643466
+      },
+      "noise_frac": 0.0030666666666666668
+    },
+    {
+      "params": {
+        "eps": 1.0,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.4366879260787319,
+        "davies_bouldin": 4.04508515218268,
+        "calinski_harabasz": 5.8627625775340295
+      },
+      "noise_frac": 0.0007333333333333333
+    },
+    {
+      "params": {
+        "eps": 1.0,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.43322168786000625,
+        "davies_bouldin": 5.389804334637283,
+        "calinski_harabasz": 4.394627856294463
+      },
+      "noise_frac": 0.0009333333333333333
+    },
+    {
+      "params": {
+        "eps": 1.0,
+        "min_samples": 20
+      },
+      "metrics": {
+        "silhouette": 0.4262359235269332,
+        "davies_bouldin": 6.304662244375367,
+        "calinski_harabasz": 4.594970175659644
+      },
+      "noise_frac": 0.0013333333333333333
+    },
+    {
+      "params": {
+        "eps": 1.0,
+        "min_samples": 25
+      },
+      "metrics": {
+        "silhouette": 0.42049217946934664,
+        "davies_bouldin": 8.347614205956347,
+        "calinski_harabasz": 3.3901828880117337
+      },
+      "noise_frac": 0.0017333333333333333
+    },
+    {
+      "params": {
+        "eps": 1.1,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.47956594046123047,
+        "davies_bouldin": 4.6273873216784995,
+        "calinski_harabasz": 1.4234624233484847
+      },
+      "noise_frac": 0.0002
+    },
+    {
+      "params": {
+        "eps": 1.1,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.44394884762360776,
+        "davies_bouldin": 2.5894871318916817,
+        "calinski_harabasz": 5.572329002451339
+      },
+      "noise_frac": 0.0003333333333333333
+    },
+    {
+      "params": {
+        "eps": 1.1,
+        "min_samples": 20
+      },
+      "metrics": {
+        "silhouette": 0.45280301386308686,
+        "davies_bouldin": 4.0061100580472475,
+        "calinski_harabasz": 3.911364556910064
+      },
+      "noise_frac": 0.00046666666666666666
+    },
+    {
+      "params": {
+        "eps": 1.1,
+        "min_samples": 25
+      },
+      "metrics": {
+        "silhouette": 0.4392937651329277,
+        "davies_bouldin": 3.283022597358472,
+        "calinski_harabasz": 6.898413131187994
+      },
+      "noise_frac": 0.0006
+    },
+    {
+      "params": {
+        "eps": 1.2,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.2,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.49205215967086746,
+        "davies_bouldin": 3.4360316859381554,
+        "calinski_harabasz": 1.7675311503020341
+      },
+      "noise_frac": 0.00013333333333333334
+    },
+    {
+      "params": {
+        "eps": 1.2,
+        "min_samples": 20
+      },
+      "metrics": {
+        "silhouette": 0.47956594046123047,
+        "davies_bouldin": 4.6273873216784995,
+        "calinski_harabasz": 1.4234624233484847
+      },
+      "noise_frac": 0.0002
+    },
+    {
+      "params": {
+        "eps": 1.2,
+        "min_samples": 25
+      },
+      "metrics": {
+        "silhouette": 0.47956594046123047,
+        "davies_bouldin": 4.6273873216784995,
+        "calinski_harabasz": 1.4234624233484847
+      },
+      "noise_frac": 0.0002
+    },
+    {
+      "params": {
+        "eps": 1.3,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.3,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.3,
+        "min_samples": 20
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.3,
+        "min_samples": 25
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.4,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.4,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.4,
+        "min_samples": 20
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.4,
+        "min_samples": 25
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.5,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.5,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.5,
+        "min_samples": 20
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.5,
+        "min_samples": 25
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.6,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.6,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.6,
+        "min_samples": 20
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.6,
+        "min_samples": 25
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.7,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.7,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.7,
+        "min_samples": 20
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.7,
+        "min_samples": 25
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.8,
+        "min_samples": 10
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.8,
+        "min_samples": 15
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.8,
+        "min_samples": 20
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    },
+    {
+      "params": {
+        "eps": 1.8,
+        "min_samples": 25
+      },
+      "metrics": {
+        "silhouette": 0.48971602095130357,
+        "davies_bouldin": 0.37351650090087757,
+        "calinski_harabasz": 6.478610129245517
+      },
+      "noise_frac": 6.666666666666667e-05
+    }
+  ]
+}

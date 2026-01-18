@@ -1,0 +1,40 @@
+{
+  "ds1": {
+    "algo": "KMeans",
+    "params": {
+      "k": 2
+    },
+    "metrics": {
+      "silhouette": 0.5216395622404242,
+      "davies_bouldin": 0.6853295219054458,
+      "calinski_harabasz": 11786.954622671528
+    },
+    "noise_frac": 0.0
+  },
+  "ds2": {
+    "algo": "DBSCAN",
+    "params": {
+      "eps": 1.2,
+      "min_samples": 10
+    },
+    "metrics": {
+      "silhouette": 0.5479759440510322,
+      "davies_bouldin": 6.6619081464615775,
+      "calinski_harabasz": 1.414059573518188
+    },
+    "noise_frac": 0.000625
+  },
+  "ds3": {
+    "algo": "DBSCAN",
+    "params": {
+      "eps": 1.2,
+      "min_samples": 15
+    },
+    "metrics": {
+      "silhouette": 0.49205215967086746,
+      "davies_bouldin": 3.4360316859381554,
+      "calinski_harabasz": 1.7675311503020341
+    },
+    "noise_frac": 0.00013333333333333334
+  }
+}

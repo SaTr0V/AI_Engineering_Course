@@ -1,3 +1,8 @@
+# TODO: 
+# ! - image extensions
+# ! - image naming (must be unique)
+# * better GUI 
+
 from fastapi import FastAPI, Request, File, UploadFile
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles

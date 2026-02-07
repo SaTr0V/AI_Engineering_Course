@@ -38,6 +38,21 @@
 
 ## 3. Данные
 
+### DIV2K
+- **License**: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+- **Usage**: full training and validation sets are used for model development. Attribution is provided in this report.
+- **Compliance**: open, non-sensitive, no personal data. Permitted for academic and commercial use with attribution.
+
+### FFHQ
+- **License**: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- **Usage**: first 100 images used for qualitative evaluation of face upscaling. Project is strictly non-commercial and educational.
+- **Compliance**: allowed under license terms for non-commercial academic use.
+
+### Flickr2K
+- **Status**: **Mentioned, not used directly**.
+?????? НЕ ФАКТ ЧТО БУДУ ИСПОЛЬЗОВАТЬ 
+- **Note**: Some pretrained models (e.g., Real-ESRGAN) were trained on Flickr2K by their authors. We do not download, store, or redistribute any part of Flickr2K due to unclear licensing and potential copyright restrictions.
+
 Опишите, какие данные использует проект:
 
 1. **Источник данных:**
@@ -148,6 +163,7 @@
   - улучшения модели;
   - улучшения сервиса;
   - улучшения данных и экспериментов.
+  - !!!!!!!!!!!!!!! more training data (artwork concluded).
 
 ---
 

@@ -1,20 +1,13 @@
-# Ноутбуки проекта
+# Project's notebooks
 
-В эту папку помещаются **экспериментальные ноутбуки**:
+This folder is for **experimental notebooks**:
 
-- разведочный анализ данных (EDA);
-- прототипы моделей;
-- отдельные эксперименты;
-- разовые проверки гипотез.
+- exploratory data analysis (EDA);
+- model prototypes;
+- individual experiments;
+- one-off hypothesis testing.
 
-Рекомендуется:
+Below is a list of the notebooks in this folder and their specific purposes:
 
-- давать ноутбукам осмысленные имена, например:
-  - `exp01_eda_baseline.ipynb`
-  - `exp02_model_tuning.ipynb`
-- по возможности добавлять краткое текстовое описание в начале ноутбука:
-  - цель эксперимента;
-  - какие данные используются;
-  - какие основные выводы.
-
-Всё, что становится «боевым» кодом (препроцессинг, обучение, инференс), по возможности выносите в модульный код в папку `src/`.
+- `01_data_exploration.ipynb`: dataset choice and justification, metrics choice.
+- `02_model_exploration.ipynb`: 

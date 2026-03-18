@@ -1,24 +1,12 @@
-# Тесты проекта
+# Project tests
 
-В эту папку можно добавлять **тесты**:
+For **tests** we use `pytest`.
 
-- модульные тесты для функций и классов из `src/`;
-- простые проверки корректности работы пайплайнов;
-- sanity-check тесты (например, размеры матриц, наличие нужных колонок в данных и т.п.).
-
-Рекомендуемый вариант — использовать `pytest`:
-
-- файлы тестов называть в формате:
-  - `test_*.py`, например:
-    - `test_data_loading.py`
-    - `test_model_training.py`
-- размещать рядом с тестируемым функционалом логично сгруппированные тесты.
-
-Команда запуска тестов (пример — укажите её в `project/README.md`):
-
+To execute tests, use 
 ```bash
 cd project
-pytest tests
+pytest
 ```
 
-Наличие даже простых тестов поможет избежать «ломающих» изменений перед защитой.
+Below is a list of the tests in this folder and their specific purposes:
+  - `test_api_service.py`: `"/"`, `"/health"` and `"/upload"` endpoints test.

@@ -1,22 +1,11 @@
-# Конфигурационные файлы
+# Configuration files
 
-В этой папке хранятся **настройки проекта**:
+**Project configuration** is located in this directory.
 
-- `.yaml` / `.yml` / `.json` файлы с параметрами:
-  - пути к данным;
-  - гиперпараметры модели;
-  - параметры обучения и инференса;
-- шаблоны файлов окружения:
-  - `.env.example` — список переменных окружения **без** реальных секретов.
+- `.yaml` / `.yml` / `.json` files with paremeters:
+  - data paths;
+  - hyperparameters;
+  - training and inference parameters;
+- environment templates:
+  - `.env.example`.
 
-Важно:
-
-- не храните здесь файлы `.env` с реальными паролями, токенами и ключами;
-- реальные значения переменных окружения должны быть только локально (в `.env`, который игнорируется `.gitignore`).
-
-Пример:
-
-- `config.yaml` — общие настройки проекта;
-- `training.yaml` — параметры обучения;
-- `inference.yaml` — параметры инференса;
-- `.env.example` — шаблон с именами переменных без значений.

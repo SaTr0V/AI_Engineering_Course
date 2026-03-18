@@ -1,9 +1,8 @@
 # TODO: 
-# ! - image extensions
-# ! - image naming (must be unique)
+# ! - image extensions (after testing on models)
 # * better GUI 
 
-from fastapi import FastAPI, Request, File, UploadFile
+from fastapi import FastAPI, Request, File, UploadFile, HTTPException
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
@@ -27,20 +26,45 @@ app.mount("/static", StaticFiles(directory=BASE_DIR / "static"), name="static")
 # HTML pages use Jinja2 templates engien
 templates = Jinja2Templates(directory=BASE_DIR / "templates")
 
+# Health-check
+@app.get("/health", tags=["system"])
+def health() -> dict[str, str]:
+    return {
+        "status": "ok",
+        "service": "Image Upload Service",
+        "version": "0.1.0",
+    }
+
 # Main form page
 @app.get("/", response_class=HTMLResponse)
 def form_page(request: Request) -> HTMLResponse:
-    return templates.TemplateResponse("form.html", {"request": request})
+    return templates.TemplateResponse(request, "form.html")
 
 # Image uploading handling endpoint
 @app.post("/upload", response_class=HTMLResponse)
 async def upload(request: Request, file: UploadFile = File(...)) -> HTMLResponse:
-    # Fallback to "unnamed" if the uploaded file has no filename
     if not file.filename:
-        file.filename = "unnamed"
-        
-    file_location = UPLOAD_DIR / file.filename
+        raise HTTPException(status_code=400, detail="Filename is missing")
+
+    # Check if a file with the same name already exists in the static/uploads directory
+    fname = file.filename
+    file_location = UPLOAD_DIR / fname
     
+    if file_location.exists():
+        stem = Path(fname).stem
+        suffix = Path(fname).suffix
+        counter = 1
+        
+        # Add a number next to stem
+        while True:
+            new_filename = f"{stem} ({counter}){suffix}"
+            file_location = UPLOAD_DIR / new_filename
+            if not file_location.exists():
+                fname = new_filename
+                file.filename = fname
+                break
+            counter += 1
+            
     # Open a local file in write-binary mode to save the uploaded content
     with open(file_location, "wb") as f:
         # Use shutil to stream the file content efficiently to disk
@@ -52,5 +76,10 @@ async def upload(request: Request, file: UploadFile = File(...)) -> HTMLResponse
         "image_url": f"/static/uploads/{file.filename}"
     }
     
-    return templates.TemplateResponse("result_image.html", {"request": request, "file_info": file_info})
-    
+    return templates.TemplateResponse(
+        request,
+        "result_image.html",
+        {
+            "file_info": file_info
+        }
+    )

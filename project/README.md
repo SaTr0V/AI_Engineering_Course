@@ -1,6 +1,6 @@
 # Final project for the course «AI Engineering»
 
-This folder contains the final mini-project for the course.
+> This folder contains the final mini-project for the course.
 
 ---
 

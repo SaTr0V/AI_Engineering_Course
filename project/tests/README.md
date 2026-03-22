@@ -8,5 +8,5 @@ cd project
 pytest
 ```
 
-Below is a list of the tests in this folder and their specific purposes:
+Below is a list of tests in this folder and their specific purposes:
   - `test_api_service.py`: `"/"`, `"/health"` and `"/upload"` endpoints test.

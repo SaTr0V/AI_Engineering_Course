@@ -1,0 +1,7 @@
+experiment_id,task,dataset,seed,model_summary,optimizer,lr,epochs_trained,best_val_accuracy,test_accuracy,precision,recall,mean_iou,notes
+C1,classification,Flowers102,42,SimpleCNN,Adam,0.001,10,0.1843137254901961,,,,,
+C2,classification,Flowers102,42,SimpleCNN,Adam,0.001,10,0.00980392156862745,,,,,
+C3,classification,Flowers102,42,ResNet,Adam,0.001,10,0.8323529411764706,,,,,
+C4,classification,Flowers102,42,ResNet,Adam,0.0001,10,0.8823529411764706,0.8523337127988291,,,,Best model
+V1,detection,PascalVOC2007,42,FasterRCNN_ResNet50_FPN,N/A,0.0,0,,,0.4088063325563325,0.9388888888888889,0.8137029807837237,"score_threshold=0.3, n_eval=20"
+V2,detection,PascalVOC2007,42,FasterRCNN_ResNet50_FPN,N/A,0.0,0,,,0.6641955266955267,0.8652777777777778,0.7766097262998423,"score_threshold=0.7, n_eval=20"
